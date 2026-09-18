@@ -47,5 +47,5 @@ jobs:
           python-version: "3.14"
 
       - name: Run KFC script
-        run: python .github/scripts/kfc.py
+        run: python .github/KFC.py
         
